@@ -1,0 +1,6 @@
+[cluster]
+url=https://api.qarnot.com/
+
+[client]
+# This is your secret token, keep it safe
+token=token
